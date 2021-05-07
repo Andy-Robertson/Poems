@@ -1,0 +1,6 @@
+The Tech Stack..
+
+HTML
+CSS
+
+This is the tech stack!

@@ -3,5 +3,6 @@ The Tech Stack..
 HTML
 CSS
 JavaScript
+React
 
 This is the tech stack!

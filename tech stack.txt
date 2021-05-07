@@ -6,6 +6,6 @@ JavaScript
 React
 NodeJS
 PostgreSQL
-Bunnywin
+pengwin
 
 This is the tech stack!

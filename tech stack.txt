@@ -4,5 +4,6 @@ HTML
 CSS
 JavaScript
 React
+NodeJS
 
 This is the tech stack!

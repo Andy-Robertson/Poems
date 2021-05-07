@@ -2,5 +2,6 @@ The Tech Stack..
 
 HTML
 CSS
+JavaScript
 
 This is the tech stack!
